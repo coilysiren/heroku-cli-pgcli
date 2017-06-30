@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/lynncyrin/heroku-cli-pgcli.svg?branch=master)](https://travis-ci.org/lynncyrin/heroku-cli-pgcli)
 [![codecov](https://codecov.io/gh/lynncyrin/heroku-cli-pgcli/branch/master/graph/badge.svg)](https://codecov.io/gh/lynncyrin/heroku-cli-pgcli)
-[![Code Climate](https://codeclimate.com/lynncyrin/heroku-cli-pgcli/badges/gpa.svg)](https://codeclimate.com/lynncyrin/heroku-cli-pgcli)
+[![Code Climate](https://codeclimate.com/github/lynncyrin/heroku-cli-pgcli/badges/gpa.svg)](https://codeclimate.com/github/lynncyrin/heroku-cli-pgcli)
 
 ⚠⚠⚠ NOT CURRENTLY FUNCTIONAL ⚠⚠⚠
 
