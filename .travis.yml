@@ -1,0 +1,8 @@
+language: node_js
+install:
+  - yarn
+script:
+  - jest --coverage && bash <(curl -s https://codecov.io/bash)
+  - flow check
+  - eslint .
+  - yarn test
