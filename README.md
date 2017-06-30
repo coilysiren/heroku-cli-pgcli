@@ -2,4 +2,4 @@
 
 # heroku-cli-pgcli
 
-attempting to produce a fix for https://github.com/chrisanderton/heroku-pg-pgcli
+rewriting an [old pgcli heroku plugin](https://github.com/chrisanderton/heroku-pg-pgcli) using heroku's nodejs pluging api
