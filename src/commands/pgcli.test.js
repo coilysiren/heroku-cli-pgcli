@@ -1,13 +1,13 @@
 // @flow
 
-import Hello from './hello'
+import Pgcli from './pgcli'
 
 test('it says hello to the world', async () => {
-  let cmd = await Hello.mock()
+  let cmd = await Pgcli.mock()
   expect(cmd.out.stdout.output).toEqual('hello world!\n')
 })
 
 test('it says hello to jeff', async () => {
-  let cmd = await Hello.mock('--name', 'jeff')
+  let cmd = await Pgcli.mock('--name', 'jeff')
   expect(cmd.out.stdout.output).toEqual('hello jeff!\n')
 })
