@@ -6,4 +6,4 @@
 
 # heroku-cli-pgcli
 
-rewriting an [old pgcli heroku plugin](https://github.com/chrisanderton/heroku-pg-pgcli) using heroku's nodejs pluging api
+rewriting an [old pgcli heroku plugin](https://github.com/chrisanderton/heroku-pg-pgcli) using heroku's nodejs plugin api
